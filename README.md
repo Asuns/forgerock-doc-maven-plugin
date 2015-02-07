@@ -1,3 +1,14 @@
+# Developers: Get the latest from ForgeRock
+
+_This version is long out of date._
+
+Active development is shared through ForgeRock's Subversion repo,
+<https://svn.forgerock.org/commons/forgerock-doc-maven-plugin/>.
+
+Of course you can continue using git through `git svn`.
+
+Once we move that to git, we will use that code base instead.
+
 # ForgeRock Doc Build Maven Plugin
 
 This Maven plugin centralizes configuration of core documentation, to ensure
@@ -446,4 +457,4 @@ To view a copy of this license, visit
 or send a letter to Creative Commons, 444 Castro Street,
 Suite 900, Mountain View, California, 94041, USA.
 
-Copyright 2012-2014 ForgeRock AS
+Copyright 2012-2015 ForgeRock AS.

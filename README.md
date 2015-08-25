@@ -2,12 +2,12 @@
 
 _This version is long out of date._
 
-Active development is shared through ForgeRock's Subversion repo,
-<https://svn.forgerock.org/commons/forgerock-doc-maven-plugin/>.
+Active development is shared through ForgeRock's Stash,
+<https://stash.forgerock.org/projects/COMMONS/repos/forgerock-doc-maven-plugin/browse>.
 
-Of course you can continue using git through `git svn`.
+Use that code base instead.
 
-Once we move that to git, we will use that code base instead.
+* * *
 
 # ForgeRock Doc Build Maven Plugin
 

@@ -457,4 +457,4 @@ To view a copy of this license, visit
 or send a letter to Creative Commons, 444 Castro Street,
 Suite 900, Mountain View, California, 94041, USA.
 
-Copyright 2012-2015 ForgeRock AS.
+Copyright 2012-2016 ForgeRock AS.

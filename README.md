@@ -3,7 +3,7 @@
 _This version is long out of date._
 
 Active development is shared through ForgeRock's Stash,
-<https://stash.forgerock.org/projects/COMMONS/repos/forgerock-doc-maven-plugin/browse>.
+<https://stash.forgerock.org/projects/DOCS/repos/forgerock-doc-maven-plugin/browse>.
 
 Use that code base instead.
 
